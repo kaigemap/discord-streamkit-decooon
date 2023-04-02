@@ -1,6 +1,6 @@
 # discord-streamkit-decooon
 
-Discord Streamkit Overlay (https://streamkit.discord.com/overlay)のカスタムCSS用リポジトリです
+[Discord Streamkit Overlay](https://streamkit.discord.com/overlay)のカスタムCSS用リポジトリです
 現在 β 版を公開しています。
 
 ## 現在の機能
